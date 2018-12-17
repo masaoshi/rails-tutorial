@@ -23,3 +23,7 @@
 .byebug_history
 
 vendor/bundle
+*.bak
+
+# Ignore Spring files.
+/spring/*.pid
