@@ -39,3 +39,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # node.jsの代わり
 gem 'therubyracer', platforms: :ruby
+
+# リスト6.36
+gem 'bcrypt',         '3.1.12'
