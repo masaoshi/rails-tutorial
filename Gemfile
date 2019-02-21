@@ -42,3 +42,6 @@ gem 'therubyracer', platforms: :ruby
 
 # リスト6.36
 gem 'bcrypt',         '3.1.12'
+
+# リスト10.42
+gem 'faker',          '1.7.3'
