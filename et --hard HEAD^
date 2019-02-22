@@ -1,0 +1,371 @@
+[33mcommit e04027fc7c5d3e6297a48e31c0a0d93790378be5[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Fri Feb 22 20:58:01 2019 +0900
+
+    Finish user edit, update, index, and destroy actions
+
+[33mcommit 801fb9868aefebbc946345cbe6273a5fa440dc33[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Fri Feb 22 20:34:39 2019 +0900
+
+    10.4.2
+
+[33mcommit a07b24651d7e9d5478a1bd93224282c0488da662[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Fri Feb 22 20:16:45 2019 +0900
+
+    10.4.1 演習
+
+[33mcommit 8a7c4fb3162cc70f8dea563add57790b83857de7[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Fri Feb 22 20:08:02 2019 +0900
+
+    10.4.1
+
+[33mcommit 580e301ef57a8c5c383ee5e89513cab4b9e0ec0a[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Fri Feb 22 19:57:24 2019 +0900
+
+    10.3.5
+
+[33mcommit dff54fb71a547bc358682a1401696a7cfc97873e[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Fri Feb 22 19:53:21 2019 +0900
+
+    10.3.4
+
+[33mcommit 20bbfd76ef175d2eb176570219251a916cd4b178[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Fri Feb 22 19:35:39 2019 +0900
+
+    10.3.3
+
+[33mcommit 7a4c32e355439de990f006bd693740a2ba70b759[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Fri Feb 22 02:03:32 2019 +0900
+
+    10.3.2
+
+[33mcommit fe548c5f28893eeee07e6a9d3a79e43905619319[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Fri Feb 22 01:10:00 2019 +0900
+
+    10.3.1
+
+[33mcommit da17e11bf7d75478b5b80117300634f8000f4b60[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Fri Feb 22 00:23:17 2019 +0900
+
+    10.2.3
+
+[33mcommit d6ca980c05a5bfd9b6a6de6c19adffdd3ffd02d3[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Thu Feb 21 02:39:59 2019 +0900
+
+    10.2.1
+
+[33mcommit 6969671762a06398ba1b342e8e35d1417a0ca84e[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Wed Feb 20 01:54:34 2019 +0900
+
+    10.1.4
+
+[33mcommit bba4698042c25b79b4acf955d99c362b58a8f3f1[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Wed Feb 20 01:39:08 2019 +0900
+
+    10.1.3
+
+[33mcommit 0627f9b7ae941d583828557993f6c8132d988780[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Wed Feb 20 01:29:19 2019 +0900
+
+    10.1.2
+
+[33mcommit 4e68210367265121791291adfc0822f86fb59770[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Wed Feb 20 01:22:55 2019 +0900
+
+    10.1.1 演習
+
+[33mcommit 1376896e22b782920d89256717e0a80e9a883e7a[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Tue Feb 19 01:53:10 2019 +0900
+
+    Implement advanced login
+
+[33mcommit 145a32a4d85febf9a60c0ce1c8b4321d6198930e[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Tue Feb 19 01:34:08 2019 +0900
+
+    9.3.1
+
+[33mcommit 00c35136a9ed59635e19f2219fe8b19b9e319a84[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Tue Feb 19 01:13:38 2019 +0900
+
+    9.1.4
+
+[33mcommit fa9826cf0c1ab1511f833153da381a6125df8e3d[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Tue Feb 19 01:05:31 2019 +0900
+
+    9.1.3
+
+[33mcommit 872c86d4daadeb6ffb4afb40b1d01f6c683fe608[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Tue Feb 19 01:02:28 2019 +0900
+
+    9.1.2
+
+[33mcommit 50d853b08616e87a541bc1844d55a959792671bc[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Tue Feb 19 00:32:22 2019 +0900
+
+    9.1.1
+
+[33mcommit 842be581f765794060161536d518dd355ce38fc6[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Mon Feb 18 02:30:19 2019 +0900
+
+    Implement basic login
+
+[33mcommit 39d4756296a3f694c5992a7e5a88a4f0abc43a0e[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Mon Feb 18 02:07:42 2019 +0900
+
+    8.2.5
+
+[33mcommit aa9db677cdf4302bad611610992302e18cecbe8a[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Mon Feb 18 02:00:52 2019 +0900
+
+    8.2.4
+
+[33mcommit 825c7a1a5ef1a77e5d5806800383b51c721aeabe[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Sun Feb 17 14:46:45 2019 +0900
+
+    8.2.1
+
+[33mcommit 62324d1586a4065d0f85ce5ec4fcb7d5f687c745[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Sun Feb 17 14:29:36 2019 +0900
+
+    8.1.5
+
+[33mcommit 2b650457edbe4413a422248237018af3056f6816[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Sun Feb 17 14:14:22 2019 +0900
+
+    8.1.4
+
+[33mcommit bbf42c23cda4626cc0dc14d3a20b67e8e92399f1[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Sun Feb 17 14:07:13 2019 +0900
+
+    8.1.3
+
+[33mcommit 6a01d9756bf5482278ddfdae43c81bb75784dc5e[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Sun Feb 17 04:05:09 2019 +0900
+
+    8.1.2
+
+[33mcommit d7f1c1ab556f5a1843dcbbde9a5f0204f4949305[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Sun Feb 17 02:39:13 2019 +0900
+
+    8.1.1
+
+[33mcommit dc6fb71346efb85523e7e911beb568a9333dfbf9[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Sun Feb 17 01:24:31 2019 +0900
+
+    Use SSL and the Puma webserver in production
+
+[33mcommit 7a11e63600b3e6695a9e16129ca9d3f2136e5990[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Sun Feb 17 00:32:11 2019 +0900
+
+    7.4.4
+
+[33mcommit 69888204dd3652b3dd6f01df846f60380032b196[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Sat Feb 16 22:57:40 2019 +0900
+
+    7.4.2
+
+[33mcommit 5a7486bf5181fc7a75edca6df322061e5cabded0[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Sat Feb 16 22:44:06 2019 +0900
+
+    7.4.1
+
+[33mcommit 38c74dee615f6d2cde99016805f40d7e45fd014a[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Fri Feb 15 02:10:18 2019 +0900
+
+    7.3.4
+
+[33mcommit 212c561e6d26220821f736d7466bc6006cb30d1a[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Fri Feb 15 01:47:05 2019 +0900
+
+    7.3.3
+
+[33mcommit e0d0e4ad5ab74717d4fc434658af8ff3b04f6a5f[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Wed Feb 6 00:48:10 2019 +0900
+
+    7.3.2
+
+[33mcommit ca62e76825e8f8a64615d2cfb5c729ac9cba9caa[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Tue Feb 5 01:13:49 2019 +0900
+
+    7.2.1
+
+[33mcommit 9f20301a13caee91c7e08be9ec06e25b175a4f30[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Tue Jan 29 23:12:43 2019 +0900
+
+    7.1.4 演習2
+
+[33mcommit 825498833af66ebe6f14412cb256951ba106bf31[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Tue Jan 29 23:05:26 2019 +0900
+
+    7.1.4
+
+[33mcommit e96972fbaddcd5edd471a98892c6742385e75f54[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Tue Jan 29 22:37:37 2019 +0900
+
+    7.1.3
+
+[33mcommit 83595412937fd1705a194096652d4cc5468d88a1[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Tue Jan 29 22:32:39 2019 +0900
+
+    7.1.2
+
+[33mcommit a2cba98e238d420e015ee77a3fae3ae9827e4bdd[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Tue Jan 29 22:19:09 2019 +0900
+
+    7.1.1
+
+[33mcommit ab76440684729b6947058f7bf3a189d1cdd17c75[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Tue Jan 29 01:19:19 2019 +0900
+
+    6.3.3
+
+[33mcommit f3c2428beea6621eb5f9544e1ef2d7c4b5d3d684[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Tue Jan 29 00:56:22 2019 +0900
+
+    6.3.2
+
+[33mcommit 256f8ba39df21ed07707d06816b04898b366fc6e[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Wed Jan 9 22:31:57 2019 +0900
+
+    6.2.4
+
+[33mcommit 5d24f0151a2e3adec1121735ed050d8697c63d7b[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Thu Dec 27 02:00:14 2018 +0900
+
+    6.2.1
+
+[33mcommit e441be4957f0920073f255accdca7c158e8beeb5[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Wed Dec 26 03:25:25 2018 +0900
+
+    5.3.3, 5.3.4
+
+[33mcommit e3ed81358c534c81e9601a87ca3566e2637060f3[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Wed Dec 26 03:07:20 2018 +0900
+
+    5.4.2
+
+[33mcommit 2ae694f51ca57f6a09092ed8b11a28dd462fb7b9[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Wed Dec 26 03:07:10 2018 +0900
+
+    5.4.2
+
+[33mcommit c60927146647c675a25d157d3232012b0804dd63[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Wed Dec 26 03:05:00 2018 +0900
+
+    5.4.2
+
+[33mcommit f56e7d510f2f1b789776ac422f4be1926aa21c9a[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Wed Dec 26 02:56:59 2018 +0900
+
+    5.4.1
+
+[33mcommit fe36e24d290a2f5f327ac900603f9679e637329b[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Fri Dec 21 02:38:27 2018 +0900
+
+    5.3.2
+
+[33mcommit 4de751af2b24af85fc1fa9cb0702be9f0ea48ffb[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Wed Dec 19 01:18:28 2018 +0900
+
+    5.2.2
+
+[33mcommit acf1b957cc1b3808b3091658134fff4bc263722c[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Tue Dec 18 01:06:26 2018 +0900
+
+    5.1.3
+
+[33mcommit 047ec250b3ba46da62358445610832618ed23337[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Tue Dec 18 00:31:33 2018 +0900
+
+    Add a full_title helper
+
+[33mcommit 9ce6db7ece05ec6ccb8b3150a9c0369d376da250[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Tue Dec 18 00:20:49 2018 +0900
+
+    Complete advanced setup
+
+[33mcommit 656a05930a1649da6b59a51cce89e7972c3cd48c[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Tue Dec 18 00:08:29 2018 +0900
+
+    Finish static pages
+
+[33mcommit 3deaddce81e98a5cef3ea2b7e478bc4b94132d37[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Mon Dec 17 02:52:41 2018 +0900
+
+    Add a Static Pages controller
+
+[33mcommit 60679d28d8cbee57a7f56d68a91aaee717bae65a[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Mon Dec 17 02:46:25 2018 +0900
+
+    Add hello
+
+[33mcommit a7915241b1cd491a914bc91b7cf80bd887bb973c[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Mon Dec 17 02:39:47 2018 +0900
+
+    Improve the README
+
+[33mcommit b5cdf43a94f46501f384a7ef03cebcfb00ffdfdb[m
+Author: mash <mash.act11@outlook.jp>
+Date:   Mon Dec 17 02:39:13 2018 +0900
+
+    Initialize repository
