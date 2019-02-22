@@ -45,3 +45,7 @@ gem 'bcrypt',         '3.1.12'
 
 # リスト10.42
 gem 'faker',          '1.7.3'
+
+# リスト10.44
+gem 'will_paginate',           '3.1.6'
+gem 'bootstrap-will_paginate', '1.0.0'
