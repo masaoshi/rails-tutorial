@@ -27,3 +27,6 @@ vendor/bundle
 
 # Ignore Spring files.
 /spring/*.pid
+
+_Gemfile.lock
+.ruby-version
