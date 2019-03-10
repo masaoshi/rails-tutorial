@@ -30,3 +30,5 @@ vendor/bundle
 
 _Gemfile.lock
 .ruby-version
+
+public/uploads/micropost
